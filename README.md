@@ -2,10 +2,13 @@
 
 ## Accounting
 * [Xero](https://go.xero.com/)
+
 ## Time Tracking
 * [Harvest](https://leapformankind.harvestapp.com/)
+
 ## Payroll
 * [ADP](https://runpayroll.adp.com/)
+
 ## Marketing
 * mailchimp
 * Slid.es
