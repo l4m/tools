@@ -17,6 +17,11 @@
 * Sketch
 * Skitch
 
+## Hardware
+* [Apple](http://www.apple.com/)
+* Account ID: 270076074
+* DSID: 8244428998
+
 ## Other
 * Github
 * I/A Writer
