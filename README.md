@@ -1,25 +1,33 @@
 # tools
 
-* Github
-* I/A Writer
+## Accounting
+* [Xero](https://go.xero.com/)
+## Time Tracking
+* [Harvest](https://leapformankind.harvestapp.com/)
+## Payroll
+* [ADP](https://runpayroll.adp.com/)
+## Marketing
+* mailchimp
+* Slid.es
+
+## Design
 * Sketch
 * Skitch
+
+## Other
+* Github
+* I/A Writer
+
 * Code School
 * Treehouse
-* 
-Google (leap and l4m)
-mailchimp
-Slid.es
-Harvest
-Xero
+* Google (leap and l4m)
 Meetup
 Treehouse
 Codeschool
 Schedule Once
 Dropbox
 Network Solutions
-experience.io
-criminal.io 
+Nic.io
 Amazon
 WP Engine
 Nike
@@ -31,15 +39,8 @@ AT&T
 Uverse
 Website Source
 Linked In
-Supplies
-Parking
-Research
 Team
 Evernote (iTunes)
 Uber
 Ebay
-Skitch (iTunes)
-Sketch
-I/A Writer (iTunes)
-Github
 Typekit
