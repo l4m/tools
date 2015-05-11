@@ -1,7 +1,7 @@
 # tools
 
 ## [Git](http://git-scm.com/)
-Git is a free and open source distributed version control system.
+Git is a free and open source distributed version control system (DVCS).
 
 * [Github](https://github.com/)
 * [Code School Courses](https://www.codeschool.com/paths/git)
