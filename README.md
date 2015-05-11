@@ -1,5 +1,11 @@
 # tools
 
+## [Git](http://git-scm.com/)
+Git is a free and open source distributed version control system.
+
+* [Github](https://github.com/)
+* [Code School Courses](https://www.codeschool.com/paths/git)
+
 ## Accounting
 * [Xero](https://go.xero.com/)
 
@@ -23,7 +29,6 @@
 * DSID: 8244428998
 
 ## Other
-* Github
 * I/A Writer
 
 * Code School
